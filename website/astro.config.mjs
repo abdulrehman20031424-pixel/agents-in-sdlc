@@ -579,6 +579,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/2-add-star-rating/',
                   translations: {
                     'ko-KR': '2. 빠른 성과로 별점 추가하기',
+                    'es-ES': '2. Añadir valoraciones con estrellas',
+                    'ja-JP': '2. 星評価を追加する',
+                    'pt-BR': '2. Adicionar avaliações por estrelas',
+                    'zh-CN': '2. 添加星级评分',
                   },
                 },
                 {
@@ -586,6 +590,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/3-agent-modes/',
                   translations: {
                     'ko-KR': '3. 에이전트 모드: Plan 및 Autopilot',
+                    'es-ES': '3. Modos de agente: Plan y Autopilot',
+                    'ja-JP': '3. エージェント モード: Plan と Autopilot',
+                    'pt-BR': '3. Modos de agente: Plan e Autopilot',
+                    'zh-CN': '3. 代理模式：Plan 和 Autopilot',
                   },
                 },
                 {
@@ -593,6 +601,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/4-custom-instructions/',
                   translations: {
                     'ko-KR': '4. 사용자 지정 지침으로 Copilot 안내하기',
+                    'es-ES': '4. Guía a Copilot con instrucciones personalizadas',
+                    'ja-JP': '4. カスタム指示で Copilot をガイドする',
+                    'pt-BR': '4. Orientar o Copilot com instruções personalizadas',
+                    'zh-CN': '4. 使用自定义指令指导 Copilot',
                   },
                 },
                 {
@@ -607,6 +619,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/6-mcp-playwright/',
                   translations: {
                     'ko-KR': '6. Playwright MCP로 기능 검증하기',
+                    'es-ES': '6. Valida la funcionalidad con Playwright MCP',
+                    'ja-JP': '6. Playwright MCP で機能を検証する',
+                    'pt-BR': '6. Validar a funcionalidade com o Playwright MCP',
+                    'zh-CN': '6. 使用 Playwright MCP 验证功能',
                   },
                 },
                 {
@@ -614,6 +630,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/7-qa-agent/',
                   translations: {
                     'ko-KR': '7. QA 에이전트 만들고 사용하기',
+                    'es-ES': '7. Crea y usa un agente de QA',
+                    'ja-JP': '7. QA エージェントを作成して使用する',
+                    'pt-BR': '7. Criar e usar um agente de QA',
+                    'zh-CN': '7. 创建和使用 QA 代理',
                   },
                 },
                 {
@@ -621,6 +641,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/8-create-pull-request/',
                   translations: {
                     'ko-KR': '8. 기능 PR 만들고 병합하기',
+                    'es-ES': '8. Crea y combina el PR de la funcionalidad',
+                    'ja-JP': '8. 機能 PR を作成してマージする',
+                    'pt-BR': '8. Criar e mesclar o PR do recurso',
+                    'zh-CN': '8. 创建并合并功能 PR',
                   },
                 },
                 {
@@ -628,6 +652,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/9-cli-power-tools/',
                   translations: {
                     'ko-KR': '9. GitHub Copilot CLI의 슬래시 명령',
+                    'es-ES': '9. Comandos de barra de Copilot CLI',
+                    'ja-JP': '9. Copilot CLI のスラッシュ コマンド',
+                    'pt-BR': '9. Comandos slash do GitHub Copilot CLI',
+                    'zh-CN': '9. Copilot CLI 中的斜杠命令',
                   },
                 },
                 {
@@ -635,6 +663,10 @@ export default defineConfig({
                   link: '/real-world-development/cli/10-review/',
                   translations: {
                     'ko-KR': '10. 마무리 및 다음 단계',
+                    'es-ES': '10. Resumen y próximos pasos',
+                    'ja-JP': '10. まとめと次のステップ',
+                    'pt-BR': '10. Recapitulação e próximas etapas',
+                    'zh-CN': '10. 总结和后续步骤',
                   },
                 },
                 {
